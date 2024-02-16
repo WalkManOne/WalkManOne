@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WalkManOne aka Chris
-- 👀 I’m interested in ... Coding and the vast amount of things to learn. 
+- 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... How to navigate GitHub and JavaScript.
 - 💞️ I’m looking to collaborate on ... Easy for begginer projects.
 - 📫 How to reach me ... Email
